@@ -76,7 +76,6 @@ p {
     text-transform: uppercase;
     font-weight: 700;
 }
-
 .level-container{
     border: 1px solid black;
 }
@@ -85,13 +84,10 @@ p {
     margin: 15px 0;
     background-color: #f1c40f;
     font-weight: 400;
-    
-    
 }
 footer {
     margin-top: 30px;
     background-color: #ddd;
-    
 }
 footer  ul {
     display: flex;
@@ -106,9 +102,9 @@ footer span {
 }
 #video {
     max-width: 800px;
-    padding-right: 50px;
+    padding-right: 100px;
     width: 100%;
-    align-items: center;
+    align-items:center;
     
 }
 .icon {
