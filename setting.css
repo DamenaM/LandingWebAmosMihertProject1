@@ -68,6 +68,23 @@ p {
     margin: 10px;   
     text-align: center; 
 }
+.icon {
+    display: flex;
+    background-color: rgb(243, 235, 235); 
+}
+.Quality {
+    display: flex;
+    background-color: rgb(243, 235, 235); 
+}
+.Fast {
+    display: flex;
+    background-color: rgb(243, 235, 235); 
+}
+.Premium {
+    display: flex;
+    background-color: rgb(243, 235, 235); 
+}
+
 .level {
     background-color: rgb(188, 189, 187);
     color: rgb(94, 91, 91);
@@ -106,8 +123,4 @@ footer span {
     width: 100%;
     align-items:center;
     
-}
-.icon {
-    display: flex;
-    background-color: rgb(243, 235, 235); 
 }
